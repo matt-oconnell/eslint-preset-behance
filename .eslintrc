@@ -47,6 +47,8 @@
         "$.ajax": "fetch"
       }
     }],
+    "behance/no-jasmine-arrow": "error",
+    "behance/no-generators": "error",
     "no-dupe-args": "error",
     "no-dupe-class-members": "error",
     "no-dupe-keys": "error",
