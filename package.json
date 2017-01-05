@@ -1,6 +1,6 @@
 {
   "name": "eslint-preset-behance",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "ESLint preset for Behance",
   "main": ".eslintrc",
   "repository": {
